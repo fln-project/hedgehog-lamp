@@ -1,0 +1,11 @@
+{
+  "title": "Hedgehog lamp",
+  "description": "Lampe avec abat-jour en polypropylène plié, entièrement réalisable dans un FabLab.",
+  "media": "/doc/images/image.png",
+  "tags": "laser",
+  "link": "https://github.com/LnCarrel/hedgehog-lamp",
+  "author": {
+    "name": "Hélène Carrel",
+    "url": "http://www.lncarrel.ch"
+  }
+}
